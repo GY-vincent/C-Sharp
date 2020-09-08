@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "实验1.0", "实验1.0\实�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "实验2.1", "实验2.1\实验2.1.csproj", "{374ADCCA-1C09-4756-8B2B-09B5471D0480}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "实验1.1", "实验1.1\实验1.1.csproj", "{3FE5A826-6474-45DF-AD06-CB84D56F92E0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "实验2.0", "实验2.0\实验2.0.csproj", "{11720701-DBFA-46AB-958E-4D32D11760DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{374ADCCA-1C09-4756-8B2B-09B5471D0480}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{374ADCCA-1C09-4756-8B2B-09B5471D0480}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{374ADCCA-1C09-4756-8B2B-09B5471D0480}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3FE5A826-6474-45DF-AD06-CB84D56F92E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3FE5A826-6474-45DF-AD06-CB84D56F92E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3FE5A826-6474-45DF-AD06-CB84D56F92E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3FE5A826-6474-45DF-AD06-CB84D56F92E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11720701-DBFA-46AB-958E-4D32D11760DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11720701-DBFA-46AB-958E-4D32D11760DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11720701-DBFA-46AB-958E-4D32D11760DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11720701-DBFA-46AB-958E-4D32D11760DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

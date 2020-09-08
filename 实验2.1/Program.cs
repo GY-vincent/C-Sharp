@@ -16,7 +16,7 @@ namespace ConsoleApplication2
                 Console.Write("请输入你的邮箱：");
                 string email = Console.ReadLine();
                 int ID = email.IndexOf("@");
-                string userName = email.Substring(0, ID + 1);
+                string userName = email.Substring(0, ID );
                 Console.WriteLine("您的邮箱为：{0}\t您的用户名为：{1}", email, userName);
                 Console.WriteLine("是否继续输入邮箱？输入YES或者NO");
                 index = Console.ReadLine().ToLower();

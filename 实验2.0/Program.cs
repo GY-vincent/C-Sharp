@@ -8,7 +8,7 @@ namespace ConsoleApplication1
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args)     //代码二：计算数组中女生的平均年龄
         {
             string[] sex = { "女", "男", "女", "女", "女", "女" };
             int[] age = { 18, 17, 18, 18, 17, 19 };
@@ -31,7 +31,6 @@ namespace ConsoleApplication1
                 Console.WriteLine("女生平均年龄为：{0}", sum / index);
             }
             Console.ReadKey();
-
         }
     }
 }

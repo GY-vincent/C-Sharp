@@ -8,7 +8,7 @@ namespace ConsoleApplication2
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args)     //函数一：持续提取输入邮箱的用户名，直到输入no停止
         {
             string index = "no";
             for (; ; )

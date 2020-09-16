@@ -17,7 +17,7 @@ namespace 实验3._0
             Point a = new Point(double.Parse(Ax), double.Parse(Ay));    //创建点A
             Point b = new Point(double.Parse(Bx), double.Parse(By));    //创建点B
             Forward forward = new Forward(a, b, double.Parse(A_a), double.Parse(A_b));  //创建前方交会类
-            Console.WriteLine("P点X为：" + forward.result().getX() + "\tP点Y为：" + forward.result().getY()); //通过交会类计算结果
+            Console.WriteLine("P点X为：" + Math.Round(forward.result().getX(), 2) + "\tP点Y为：" + Math.Round(forward.result().getY(), 2)); //通过交会类计算结果
         }
     }
     #endregion
@@ -51,7 +51,7 @@ namespace 实验3._0
         private Point B = new Point();
 
 
-        private double a_A; 
+        private double a_A;
         private double a_B;
 
     }
